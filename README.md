@@ -1,7 +1,9 @@
-- 👋 Hi, I’m @ohadnv
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+ 👋
+ Hi, I’m ohad navon
+- 👀 I’m interested in new connections and  
+- 🌱 I’m currently learned practical software engeneering and methodologys like : C , C# , PHP(+html,css), SQL Servers , and more .
+- 
+- 💞️ I’m looking to collaborate for new steps at this sector.
 - 📫 How to reach me ...
 
 <!---
